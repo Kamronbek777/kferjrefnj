@@ -1,0 +1,12 @@
+<svg width="85.000000" height="20.000000" viewBox="0 0 85 20" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<pattern id="pattern_5_1050" patternContentUnits="objectBoundingBox" width="1.000000" height="1.000000">
+			<use xlink:href="#image5_105_0" transform="matrix(0.011765,0,0,0.05,0,0)"/>
+		</pattern>
+		<image id="image5_105_0" width="85.000000" height="20.000000" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFUAAAAUCAYAAAD88XGTAAAABHNCSVQICAgIfAhkiAAABONJREFUWIXtV21sU2UUfs5tV/qRAS3bClVcrRkgOAFrCIsuQjIl+lMcOEHQYbqgiUvE2PkBYUbJADWGxB+dhggkwjZNTIQQA0EDjo/BZHxs8QeSAC0CyqaDsI229/FHb8vd3S0Dg8DCnj+39zzvOffJ+573nFNgGMMYChAz46OPz3rk767ORT09V0pVVfUnkwklmVRPO53OfT5f4cbDLTsO3W6hQwnGTbX4JwRXdP9z8R1VVe0iApKw2+14eNJEnIlGkUgk48XF079o3X/8/bNnW6/cEdVDBStXrrSOGfvgt6Pzx9NTUEiP10+P188c5xhWvbGMu5sP8OtNDTx95ixJcv6CJbtefnut607rvqtRMntuba7HR7e2oSPH3E+bK4+w5nL9hs2cPHUmIS5+XPcZD7cdY0lpGaeVPBu507rvWiyoeneyp6Dwqs2VR5srnxaHh/6iqXx+/mKu/mQd24528MWFr3FS8QxCXETOKIptFHM9Pi5curxUH4ukm/3xO8nym9VEslzzDw7GkdxB8pCBH+Cn4wMkQ7r3oBbPVKcx/mCwAkDLnl2vJhKJnA/eC8PvfwCx2DksWjAfPp83s3Dzpi/RfekyGpq+B0DE43HUfrgKzbu2hwDsMYldIyKrSTYCiABoulFRNwsRedpgCmvfa83iEgIQAFD/H+MPjpF5/paS0mdohDrA0h+LKl+nc+S4Dn0sXaaGtXdjVgW0k09DnzEhnb3R4Hc9rjGdSSQjBplug76QgS/ntUxt1NnDOh99/ADJQ7p1dcb9VABAoBZGYzG0HT2eIWo/WosnZz2Hnp5eAMCSqmq8UFEJlQQAnDt/Ae0dHVAskjfImZUB6BKRdNZEAEBEBEAVgIgm1A2gDkC9xnXpDyobZ4Ka9FNS6LdWROqRyuAmjdffILcWvx5AnfFANIQABLR182ByGxQAsFoUicZi2NLwXYYYP/4+TCmeAovFAgCYOKEIEycUZWawAwfb0HbkGGy2HNNZVxNFAOVIbV4aQQBlGhfR2YIA3LhWJpoMPtm4W4l0OdipPQMma3YCcJPcgdTmDtBiBQCIRHOs1vzzF/7MEJWLX0LFvLmw2XIAAG9VL4XFYoFoW3jixAkICIjSmUVgDVIZFQFw0siJyGq9gWRZljh3FURkJwDRrn2YZFBE5unXKNqj2eFwYOu27Wje1wIA6L50GcvCK7C8dg1WrVmHylA1Tp2OAgCisT/w1foNsNvtUBTlyHUE1COVVfrRqxVAiGQAAHS1qxWpQ0h34HKDTzYuG8yurh5mWTgotBocEJEapLLWfMrI9xVO93j9CdfocXxo0mP8YduPmSp8vOM3/tp2jPFEkiS5d/9BzniijPbcgtQfhHH+OYaPGhuVm2QnU1NA+l3fqPSjkL6JpBuOWaMyco2GOHW6tdcbyUgyTMNIxYHNVd+owjrfTpqMYZl66PEGPhdhdV9fH1SVmDlzBmY/VYpp06ZihG0E2tvbsfuXvfjp593ou9oHp8MBUrZ0nj9ZcYOHfM8gs6k+n8/Zk7RtFWA2SfT29iIeT2h1VJBIpH47HHYoigIRHI5bE2Xd0Wi2mnrPol/n9nq9rjgcn6J/tzZz+uaqNf7mpVjs4v+qbojCdBzKG+ufpap4BcIgIAUCCIG/AByhcGPXuVPbb7POYQxjGLcc/wLiUoXCz8q5QwAAAABJRU5ErkJggg=="/>
+	</defs>
+	<rect id="reddit 1" width="85.000000" height="20.000000" fill="url(#pattern_5_1050)" fill-opacity="1.000000"/>
+</svg>
